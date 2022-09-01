@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 5
 chmod 754 hello
